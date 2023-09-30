@@ -1,6 +1,6 @@
 [user]
-        # email = [NOTE]: type my email
-        name = hikeya
+        # email = type your email
+        # name = type your name
 [alias]
         s = status
         c = commit
